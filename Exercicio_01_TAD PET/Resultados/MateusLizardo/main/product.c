@@ -4,7 +4,7 @@
 
 tProduct leProduto() {
     tProduct p;
-    printf("Nome do Produto: ID: Preco: Desconto: Estoque: ");
+    printf("Nome do Produto: ID: Preco: Desconto: Estoque: \n");
     scanf("%[^\n]", p.nome);
     scanf("%d\n", &p.id);
     scanf("%f\n", &p.preco);
@@ -35,9 +35,8 @@ float obtempreco(tProduct produto){
 float obtemPrecoComDesconto(tProduct produto){
     float preco = obtempreco(produto);
     float desconto = obtemDesconto(produto);
-    desconto = 1.0 - desconto;
 
-    return preco * desconto;
+    return preco - (preco * desconto);
 }
 
 int obtemEstoque(tProduct produto){

@@ -1,14 +1,14 @@
-Arquivos Esperados Corretos: 4 de 5
+Arquivos Esperados Corretos: 5 de 5
 Pastas Compiladas Corretamente: 3 de 3 
-Pastas Linkadas Corretamente: 2 de 3
+Pastas Linkadas Corretamente: 3 de 3
 Teste product
-  - Resultados corretos: 2 de 3
+  - Resultados corretos: 3 de 3
 Nota de MateusLizardo para o teste product: 
 Teste store
-  - Resultados corretos: 2 de 3
+  - Resultados corretos: 3 de 3
 Nota de MateusLizardo para o teste store: 
 Teste main
-  - Resultados corretos: 0 de 3
+  - Resultados corretos: 3 de 3
 Nota de MateusLizardo para o teste main: 
 Nota de MateusLizardo: 0+()+()+()
 Nota de MateusLizardo: 

@@ -14,12 +14,12 @@ CRIANDO O DIRETÓRIO DE RESULTADO PARA MateusLizardo:
  - Arquivos criados: ok!
 
 CHECKANDO OS ARQUIVOS DO ALUNO:
- - Arquivo esperado 'Respostas/MateusLizardo/main.c' não encontrado!
+ - Arquivo esperado 'Respostas/MateusLizardo/main.c' encontrado!
  - Arquivo esperado 'Respostas/MateusLizardo/product.c' encontrado!
  - Arquivo esperado 'Respostas/MateusLizardo/product.h' encontrado!
  - Arquivo esperado 'Respostas/MateusLizardo/store.c' encontrado!
  - Arquivo esperado 'Respostas/MateusLizardo/store.h' encontrado!
- - Arquivos esperados enviados: Faltando!
+ - Arquivos esperados enviados: Ok!
 
 COPIANDO OS ARQUIVOS PARA A PASTA DE RESULTADO DO ALUNO:
  - Pasta product:
@@ -41,6 +41,9 @@ COPIANDO OS ARQUIVOS PARA A PASTA DE RESULTADO DO ALUNO:
  - Removendo o main.o do professor da pasta Resultados/MateusLizardo/main
  - Copiando o Respostas/MateusLizardo/main.c do aluno para a pasta Resultados/MateusLizardo/main
  - Copiando Arquivos Extras do Aluno:
+ - Copiando Respostas/MateusLizardo/main.c para Resultados/MateusLizardo/product
+ - Copiando Respostas/MateusLizardo/main.c para Resultados/MateusLizardo/store
+ - Copiando Respostas/MateusLizardo/main.c para Resultados/MateusLizardo/main
  - Copiando Respostas/MateusLizardo/product.c para Resultados/MateusLizardo/product
  - Copiando Respostas/MateusLizardo/product.c para Resultados/MateusLizardo/store
  - Copiando Respostas/MateusLizardo/product.c para Resultados/MateusLizardo/main
@@ -69,16 +72,15 @@ LINKANDO OS ARQUIVOS COMPILADOS:
  - Arquivo de output gerado: Resultados/MateusLizardo/store/result_linking.txt
  - Pasta main:
  - Gerando o binário prog linkando com o(s) arquivo(s) main/*.o
- - Arquivos Linkados: Erro! Binário prog não gerado.
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
  - Arquivo de output gerado: Resultados/MateusLizardo/main/result_linking.txt
- - Arquivos Linkados: Erro! 1 arquivos com erros de linkagem.
 
 EXECUTANDO O PROGRAMA EM CADA CASO:
  - Pasta product / Caso 01:
  - Resultado para o saida.txt: Ok! Peso: 10.0
  - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
  - Pasta product / Caso 02:
- - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Resultado para o saida.txt: Ok! Peso: 10.0
  - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
  - Pasta product / Caso 03:
  - Resultado para o saida.txt: Ok! Peso: 10.0
@@ -89,7 +91,7 @@ EXECUTANDO O PROGRAMA EM CADA CASO:
  - Resultado para o saida.txt: Ok! Peso: 10.0
  - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
  - Pasta store / Caso 02:
- - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Resultado para o saida.txt: Ok! Peso: 10.0
  - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
  - Pasta store / Caso 03:
  - Resultado para o saida.txt: Ok! Peso: 10.0
@@ -97,13 +99,13 @@ EXECUTANDO O PROGRAMA EM CADA CASO:
  - Nota para a pasta store (máximo 5.0) - de - % de 5.0: .
  -----
  - Pasta main / Caso 01:
- - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Resultado para o saida.txt: Ok! Peso: 10.0
  - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
  - Pasta main / Caso 02:
- - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Resultado para o saida.txt: Ok! Peso: 10.0
  - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
  - Pasta main / Caso 03:
- - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Resultado para o saida.txt: Ok! Peso: 10.0
  - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
  - Nota para a pasta main (máximo 3.0) - de - % de 3.0: .
  -----
@@ -114,17 +116,17 @@ RESULTADOS FINAIS
 
 ----------------------------------------------------------------------------
 Aluno: MateusLizardo
- - Arquivos Esperados Corretos: 4 de 5
+ - Arquivos Esperados Corretos: 5 de 5
  - Pastas Compiladas Corretamente: 3 de 3 
- - Pastas Linkadas Corretamente: 2 de 3
+ - Pastas Linkadas Corretamente: 3 de 3
  - Teste product
- - Resultados corretos: 2 de 3
+ - Resultados corretos: 3 de 3
  - Nota de MateusLizardo para o teste product: 
  - Teste store
- - Resultados corretos: 2 de 3
+ - Resultados corretos: 3 de 3
  - Nota de MateusLizardo para o teste store: 
  - Teste main
- - Resultados corretos: 0 de 3
+ - Resultados corretos: 3 de 3
  - Nota de MateusLizardo para o teste main: 
  - Nota de MateusLizardo: 0+()+()+()
  - Nota de MateusLizardo: 

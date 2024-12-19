@@ -1,0 +1,14 @@
+main.c: In function ‘main’:
+main.c:9:9: warning: implicit declaration of function ‘imprimeMenu’ [-Wimplicit-function-declaration]
+    9 |         imprimeMenu();
+      |         ^~~~~~~~~~~
+main.c:7:9: warning: unused variable ‘cont’ [-Wunused-variable]
+    7 |     int cont = 0;
+      |         ^~~~
+main.c: At top level:
+main.c:50:6: warning: conflicting types for ‘imprimeMenu’; have ‘void()’
+   50 | void imprimeMenu(){
+      |      ^~~~~~~~~~~
+main.c:9:9: note: previous implicit declaration of ‘imprimeMenu’ with type ‘void()’
+    9 |         imprimeMenu();
+      |         ^~~~~~~~~~~
