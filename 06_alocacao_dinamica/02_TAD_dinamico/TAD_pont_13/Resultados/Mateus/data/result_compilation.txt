@@ -1,0 +1,10 @@
+lesao.c: In function ‘CriaLesao’:
+lesao.c:7:11: warning: assignment to ‘char *’ from incompatible pointer type ‘tLesao *’ {aka ‘struct lesao *’} [-Wincompatible-pointer-types]
+    7 |     l->id = (tLesao*) calloc(TAM_ID, sizeof(char));
+      |           ^
+lesao.c:8:20: warning: assignment to ‘char *’ from incompatible pointer type ‘tLesao *’ {aka ‘struct lesao *’} [-Wincompatible-pointer-types]
+    8 |     l->diagnostico = (tLesao*) calloc(TAM_DIAG, sizeof(char));
+      |                    ^
+lesao.c:9:21: warning: assignment to ‘char *’ from incompatible pointer type ‘tLesao *’ {aka ‘struct lesao *’} [-Wincompatible-pointer-types]
+    9 |     l->regiao_corpo = (tLesao*) calloc(TAM_DIAG, sizeof(char));
+      |                     ^
