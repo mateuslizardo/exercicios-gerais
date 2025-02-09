@@ -1,15 +1,27 @@
-==36364== Memcheck, a memory error detector
-==36364== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
-==36364== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
-==36364== Command: Resultados/Mateus/lesao/prog Resultados/Mateus/lesao/Casos/6
-==36364== Parent PID: 36363
-==36364== 
-==36364== 
-==36364== HEAP SUMMARY:
-==36364==     in use at exit: 0 bytes in 0 blocks
-==36364==   total heap usage: 17 allocs, 17 frees, 9,757 bytes allocated
-==36364== 
-==36364== All heap blocks were freed -- no leaks are possible
-==36364== 
-==36364== For lists of detected and suppressed errors, rerun with: -s
-==36364== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+==100505== Memcheck, a memory error detector
+==100505== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==100505== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==100505== Command: Resultados/Mateus/lesao/prog Resultados/Mateus/lesao/Casos/6
+==100505== Parent PID: 100504
+==100505== 
+==100505== 
+==100505== HEAP SUMMARY:
+==100505==     in use at exit: 242 bytes in 4 blocks
+==100505==   total heap usage: 57 allocs, 53 frees, 12,175 bytes allocated
+==100505== 
+==100505== 242 (32 direct, 210 indirect) bytes in 1 blocks are definitely lost in loss record 4 of 4
+==100505==    at 0x484DA83: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==100505==    by 0x10935B: CriaLesao (in /home/mateus/exercicios-gerais/06_alocacao_dinamica/02_TAD_dinamico/TAD_pont_13/Resultados/Mateus/lesao/prog)
+==100505==    by 0x109656: CriaPaciente (in /home/mateus/exercicios-gerais/06_alocacao_dinamica/02_TAD_dinamico/TAD_pont_13/Resultados/Mateus/lesao/prog)
+==100505==    by 0x109988: RodaPad (in /home/mateus/exercicios-gerais/06_alocacao_dinamica/02_TAD_dinamico/TAD_pont_13/Resultados/Mateus/lesao/prog)
+==100505==    by 0x1094E3: main (in /home/mateus/exercicios-gerais/06_alocacao_dinamica/02_TAD_dinamico/TAD_pont_13/Resultados/Mateus/lesao/prog)
+==100505== 
+==100505== LEAK SUMMARY:
+==100505==    definitely lost: 32 bytes in 1 blocks
+==100505==    indirectly lost: 210 bytes in 3 blocks
+==100505==      possibly lost: 0 bytes in 0 blocks
+==100505==    still reachable: 0 bytes in 0 blocks
+==100505==         suppressed: 0 bytes in 0 blocks
+==100505== 
+==100505== For lists of detected and suppressed errors, rerun with: -s
+==100505== ERROR SUMMARY: 1 errors from 1 contexts (suppressed: 0 from 0)

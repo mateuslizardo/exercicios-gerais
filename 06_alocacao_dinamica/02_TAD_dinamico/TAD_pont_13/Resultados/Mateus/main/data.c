@@ -3,8 +3,9 @@
 #include "data.h"
 
 tData* LeData(){
-    tData* d = (tData*) calloc(1, sizeof(tData));
-    scanf("%d/%d/%d\n", &d->dia, &d->mes, &d->ano);
+    int dia, mes, ano;
+    scanf("%d/%d/%d\n", &dia, &mes, &ano);
+    tData* d = CriaData(dia, mes, ano);
     return d;
 }
 
