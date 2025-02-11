@@ -1,27 +1,15 @@
-==100219== Memcheck, a memory error detector
-==100219== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
-==100219== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
-==100219== Command: Resultados/Mateus/lesao/prog Resultados/Mateus/lesao/Casos/4
-==100219== Parent PID: 100218
-==100219== 
-==100219== 
-==100219== HEAP SUMMARY:
-==100219==     in use at exit: 242 bytes in 4 blocks
-==100219==   total heap usage: 147 allocs, 143 frees, 17,533 bytes allocated
-==100219== 
-==100219== 242 (32 direct, 210 indirect) bytes in 1 blocks are definitely lost in loss record 4 of 4
-==100219==    at 0x484DA83: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
-==100219==    by 0x10935B: CriaLesao (in /home/mateus/exercicios-gerais/06_alocacao_dinamica/02_TAD_dinamico/TAD_pont_13/Resultados/Mateus/lesao/prog)
-==100219==    by 0x109656: CriaPaciente (in /home/mateus/exercicios-gerais/06_alocacao_dinamica/02_TAD_dinamico/TAD_pont_13/Resultados/Mateus/lesao/prog)
-==100219==    by 0x109988: RodaPad (in /home/mateus/exercicios-gerais/06_alocacao_dinamica/02_TAD_dinamico/TAD_pont_13/Resultados/Mateus/lesao/prog)
-==100219==    by 0x1094E3: main (in /home/mateus/exercicios-gerais/06_alocacao_dinamica/02_TAD_dinamico/TAD_pont_13/Resultados/Mateus/lesao/prog)
-==100219== 
-==100219== LEAK SUMMARY:
-==100219==    definitely lost: 32 bytes in 1 blocks
-==100219==    indirectly lost: 210 bytes in 3 blocks
-==100219==      possibly lost: 0 bytes in 0 blocks
-==100219==    still reachable: 0 bytes in 0 blocks
-==100219==         suppressed: 0 bytes in 0 blocks
-==100219== 
-==100219== For lists of detected and suppressed errors, rerun with: -s
-==100219== ERROR SUMMARY: 1 errors from 1 contexts (suppressed: 0 from 0)
+==38996== Memcheck, a memory error detector
+==38996== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==38996== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==38996== Command: Resultados/Mateus/lesao/prog Resultados/Mateus/lesao/Casos/4
+==38996== Parent PID: 38995
+==38996== 
+==38996== 
+==38996== HEAP SUMMARY:
+==38996==     in use at exit: 0 bytes in 0 blocks
+==38996==   total heap usage: 27 allocs, 27 frees, 10,273 bytes allocated
+==38996== 
+==38996== All heap blocks were freed -- no leaks are possible
+==38996== 
+==38996== For lists of detected and suppressed errors, rerun with: -s
+==38996== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

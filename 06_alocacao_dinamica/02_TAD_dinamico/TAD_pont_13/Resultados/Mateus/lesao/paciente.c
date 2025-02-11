@@ -30,13 +30,11 @@ tPaciente* CriaPaciente(){
     p->maxLesoes = QTD_LESAO;
     
     p->cartaoSus = (char*) calloc(TAM_CSUS, sizeof(char));
-    //p->nascimento = (tData*) calloc(1, sizeof(tData));
     p->nome = (char*) calloc(TAM_NOME, sizeof(char));
-    p->listaLesao = (tLesao**) calloc(p->maxLesoes, sizeof(tLesao*));
-    for(int i=0; i< p->maxLesoes; i++){
-        //p->listaLesao[i] = (tLesao*) calloc(1, sizeof(tLesao));
-        p->listaLesao[i] = CriaLesao();
-    }
+    p->listaLesao = (tLesao**) calloc(QTD_LESAO, sizeof(tLesao*));
+    //for(int i=0; i< p->maxLesoes; i++){
+     //   p->listaLesao[i] = CriaLesao();
+    //}
     return p;
 }
 
@@ -60,7 +58,7 @@ void LiberaPaciente(tPaciente* p){
     free(p->cartaoSus);
     free(p->nome);
     LiberaData(p->nascimento);
-    for(int i=0; i < p->maxLesoes; i++){
+    for(int i=0; i < p->qtdLesoes; i++){
         LiberaLesao(p->listaLesao[i]);
     }
     free(p->listaLesao);

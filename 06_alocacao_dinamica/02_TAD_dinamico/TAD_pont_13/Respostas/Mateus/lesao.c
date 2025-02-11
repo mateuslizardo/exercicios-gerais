@@ -4,9 +4,9 @@
 
 tLesao* CriaLesao(){
     tLesao* l = (tLesao*) calloc(1, sizeof(tLesao));
-    l->id = (tLesao*) calloc(TAM_ID, sizeof(char));
-    l->diagnostico = (tLesao*) calloc(TAM_DIAG, sizeof(char));
-    l->regiao_corpo = (tLesao*) calloc(TAM_REG, sizeof(char));
+    l->id = (char*) calloc(TAM_ID, sizeof(char));
+    l->diagnostico = (char*) calloc(TAM_DIAG, sizeof(char));
+    l->regiao_corpo = (char*) calloc(TAM_REG, sizeof(char));
     return l;
 }
 
