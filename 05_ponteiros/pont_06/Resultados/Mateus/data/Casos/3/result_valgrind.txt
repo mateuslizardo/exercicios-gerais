@@ -1,0 +1,6 @@
+==19734== Memcheck, a memory error detector
+==19734== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==19734== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==19734== Command: Resultados/Mateus/data/prog Resultados/Mateus/data/Casos/3
+==19734== Parent PID: 19733
+==19734== 

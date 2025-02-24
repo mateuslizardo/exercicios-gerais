@@ -1,0 +1,6 @@
+==19046== Memcheck, a memory error detector
+==19046== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==19046== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==19046== Command: Resultados/Mateus/completo/prog Resultados/Mateus/completo/Casos/3
+==19046== Parent PID: 19045
+==19046== 

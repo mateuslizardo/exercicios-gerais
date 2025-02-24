@@ -1,0 +1,3 @@
+/usr/bin/ld: Resultados/Mateus/main/main.o: in function `Calcular':
+main.c:(.text+0x0): multiple definition of `Calcular'; Resultados/Mateus/main/calculadora.o:calculadora.c:(.text+0x0): first defined here
+collect2: error: ld returned 1 exit status

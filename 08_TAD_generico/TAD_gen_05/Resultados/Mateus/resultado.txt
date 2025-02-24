@@ -1,0 +1,29 @@
+Arquivos Esperados Corretos: 8 de 9
+Pastas Compiladas Corretamente: 5 de 6 
+Pastas Linkadas Corretamente: 4 de 6
+Teste main
+  - Resultados corretos: 0 de 5
+  - Valgrinds corretos: 0 de 5
+Nota de Mateus para o teste main: 
+Teste completo
+  - Resultados corretos: 0 de 5
+  - Valgrinds corretos: 0 de 5
+Nota de Mateus para o teste completo: 
+Teste agendatarefas
+  - Resultados corretos: 5 de 5
+  - Valgrinds corretos: 5 de 5
+Nota de Mateus para o teste agendatarefas: 
+Teste tarefamultiplica
+  - Resultados corretos: 5 de 5
+  - Valgrinds corretos: 5 de 5
+Nota de Mateus para o teste tarefamultiplica: 
+Teste tarefasoma
+  - Resultados corretos: 5 de 5
+  - Valgrinds corretos: 5 de 5
+Nota de Mateus para o teste tarefasoma: 
+Teste tarefaimprime
+  - Resultados corretos: 5 de 5
+  - Valgrinds corretos: 5 de 5
+Nota de Mateus para o teste tarefaimprime: 
+Nota de Mateus: 0+()+()+()+()+()+()
+Nota de Mateus: 

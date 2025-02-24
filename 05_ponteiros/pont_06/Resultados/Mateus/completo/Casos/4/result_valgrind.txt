@@ -1,0 +1,6 @@
+==19247== Memcheck, a memory error detector
+==19247== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==19247== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==19247== Command: Resultados/Mateus/completo/prog Resultados/Mateus/completo/Casos/4
+==19247== Parent PID: 19246
+==19247== 

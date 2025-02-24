@@ -1,0 +1,169 @@
+- Arquivo de configuração encontrado!
+ - Arquivos header necessários do professor existem na pasta Includes
+ - Arquivos objetos necessários do professor existem na pasta Gabarito-obj.
+
+#######################################
+ALUNO: Mateus
+#######################################
+
+CRIANDO O DIRETÓRIO DE RESULTADO PARA Mateus:
+ - Diretório Resultados/Mateus criado com sucesso!
+ - Diretório Resultados/Mateus/main criado com sucesso!
+ - Diretório Resultados/Mateus/completo criado com sucesso!
+ - Diretório Resultados/Mateus/utils criado com sucesso!
+ - Arquivos criados: ok!
+
+CHECKANDO OS ARQUIVOS DO ALUNO:
+ - Arquivo esperado 'Respostas/Mateus/main.c' encontrado!
+ - Arquivo esperado 'Respostas/Mateus/utils.c' encontrado!
+ - Arquivo esperado 'Respostas/Mateus/utils.h' encontrado!
+ - Arquivos esperados enviados: Ok!
+
+COPIANDO OS ARQUIVOS PARA A PASTA DE RESULTADO DO ALUNO:
+ - Pasta main:
+ - Copiando os Casos de teste para a pasta Resultados/Mateus/main
+ - Copiando os Includes/utils.h do professor para a pasta Resultados/Mateus/main
+ - Copiando os Includes/*.o do professor para a pasta Resultados/Mateus/main
+ - Removendo o main.o do professor da pasta Resultados/Mateus/main
+ - Copiando o Respostas/Mateus/main.c do aluno para a pasta Resultados/Mateus/main
+ - Pasta completo:
+ - Copiando os Casos de teste para a pasta Resultados/Mateus/completo
+ - Copiando os Respostas/Mateus/main.c do aluno para a pasta Resultados/Mateus/completo
+ - Copiando os Respostas/Mateus/utils.c do aluno para a pasta Resultados/Mateus/completo
+ - Copiando os Respostas/Mateus/utils.h do aluno para a pasta Resultados/Mateus/completo
+ - Pasta utils:
+ - Copiando os Casos de teste para a pasta Resultados/Mateus/utils
+ - Copiando os Includes/utils.h do professor para a pasta Resultados/Mateus/utils
+ - Copiando os Includes/*.o do professor para a pasta Resultados/Mateus/utils
+ - Removendo o utils.o do professor da pasta Resultados/Mateus/utils
+ - Copiando o Respostas/Mateus/utils.c do aluno para a pasta Resultados/Mateus/utils
+ - Copiando Arquivos Extras do Aluno:
+ - Copiando Respostas/Mateus/main.c para Resultados/Mateus/main
+ - Copiando Respostas/Mateus/main.c para Resultados/Mateus/completo
+ - Copiando Respostas/Mateus/main.c para Resultados/Mateus/utils
+ - Copiando Respostas/Mateus/utils.c para Resultados/Mateus/main
+ - Copiando Respostas/Mateus/utils.c para Resultados/Mateus/completo
+ - Copiando Respostas/Mateus/utils.c para Resultados/Mateus/utils
+ - Arquivos copiados: ok!
+
+COMPILANDO OS ARQUIVOS NA PASTA DE RESULTADO DO ALUNO:
+ - Compilação dos arquivos do aluno na pasta main ok!
+ - Arquivo de output gerado: Resultados/Mateus/main/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta completo ok!
+ - Arquivo de output gerado: Resultados/Mateus/completo/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta utils ok!
+ - Arquivo de output gerado: Resultados/Mateus/utils/result_compilation.txt
+ - Arquivos Compilados: ok!
+
+LINKANDO OS ARQUIVOS COMPILADOS:
+ - Pasta main:
+ - Gerando o binário prog linkando com o(s) arquivo(s) main/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/Mateus/main/result_linking.txt
+ - Pasta completo:
+ - Gerando o binário prog linkando com o(s) arquivo(s) completo/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/Mateus/completo/result_linking.txt
+ - Pasta utils:
+ - Gerando o binário prog linkando com o(s) arquivo(s) utils/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/Mateus/utils/result_linking.txt
+
+EXECUTANDO O VALGRIND EM CADA CASO:
+ - Pasta main / Caso 1:
+ - Arquivo de output gerado: Resultados/Mateus/main/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta main / Caso 2:
+ - Arquivo de output gerado: Resultados/Mateus/main/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta main / Caso 3:
+ - Arquivo de output gerado: Resultados/Mateus/main/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta main / Caso 4:
+ - Arquivo de output gerado: Resultados/Mateus/main/Casos/4/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Nota para a pasta main (máximo 3.33) - de - % de 3.33: .
+ -----
+ - Pasta completo / Caso 1:
+ - Arquivo de output gerado: Resultados/Mateus/completo/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta completo / Caso 2:
+ - Arquivo de output gerado: Resultados/Mateus/completo/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta completo / Caso 3:
+ - Arquivo de output gerado: Resultados/Mateus/completo/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta completo / Caso 4:
+ - Arquivo de output gerado: Resultados/Mateus/completo/Casos/4/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Nota para a pasta completo (máximo 3.33) - de - % de 3.33: .
+ -----
+ - Pasta utils / Caso 1:
+ - Arquivo de output gerado: Resultados/Mateus/utils/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta utils / Caso 2:
+ - Arquivo de output gerado: Resultados/Mateus/utils/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta utils / Caso 3:
+ - Arquivo de output gerado: Resultados/Mateus/utils/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta utils / Caso 4:
+ - Arquivo de output gerado: Resultados/Mateus/utils/Casos/4/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Nota para a pasta utils (máximo 3.34) - de - % de 3.34: .
+ -----
+
+#######################################
+RESULTADOS FINAIS
+#######################################
+
+----------------------------------------------------------------------------
+Aluno: Mateus
+ - Arquivos Esperados Corretos: 3 de 3
+ - Pastas Compiladas Corretamente: 3 de 3 
+ - Pastas Linkadas Corretamente: 3 de 3
+ - Teste main
+ - Resultados corretos: 4 de 4
+ - Valgrinds corretos: 4 de 4
+ - Nota de Mateus para o teste main: 
+ - Teste completo
+ - Resultados corretos: 4 de 4
+ - Valgrinds corretos: 4 de 4
+ - Nota de Mateus para o teste completo: 
+ - Teste utils
+ - Resultados corretos: 4 de 4
+ - Valgrinds corretos: 4 de 4
+ - Nota de Mateus para o teste utils: 
+ - Nota de Mateus: 0+()+()+()
+ - Nota de Mateus: 
+
+----------------------------------------------------------------------------
+
+Arquivo CSV Resultado.csv com os resultados finais foi gerado na pasta raíz!
+
+
+

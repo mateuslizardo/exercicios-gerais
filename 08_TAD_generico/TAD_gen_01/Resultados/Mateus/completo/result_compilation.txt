@@ -1,0 +1,23 @@
+main.c: In function ‘main’:
+main.c:6:5: warning: implicit declaration of function ‘printf’ [-Wimplicit-function-declaration]
+    6 |     printf("tad_gen_01\n");
+      |     ^~~~~~
+main.c:2:1: note: include ‘<stdio.h>’ or provide a declaration of ‘printf’
+    1 | #include "tadgen.h"
+  +++ |+#include <stdio.h>
+    2 | 
+main.c:6:5: warning: incompatible implicit declaration of built-in function ‘printf’ [-Wbuiltin-declaration-mismatch]
+    6 |     printf("tad_gen_01\n");
+      |     ^~~~~~
+main.c:6:5: note: include ‘<stdio.h>’ or provide a declaration of ‘printf’
+main.c:8:5: warning: implicit declaration of function ‘scanf’ [-Wimplicit-function-declaration]
+    8 |     scanf("%d %d\n", &t, &n);
+      |     ^~~~~
+main.c:8:5: note: include ‘<stdio.h>’ or provide a declaration of ‘scanf’
+main.c:8:5: warning: incompatible implicit declaration of built-in function ‘scanf’ [-Wbuiltin-declaration-mismatch]
+main.c:8:5: note: include ‘<stdio.h>’ or provide a declaration of ‘scanf’
+main.c:8:13: warning: format ‘%d’ expects argument of type ‘int *’, but argument 2 has type ‘Type *’ [-Wformat=]
+    8 |     scanf("%d %d\n", &t, &n);
+      |            ~^        ~~
+      |             |        |
+      |             int *    Type *

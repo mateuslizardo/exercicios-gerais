@@ -1,0 +1,20 @@
+==99375== Memcheck, a memory error detector
+==99375== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==99375== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==99375== Command: Resultados/Mateus/completo/prog Resultados/Mateus/completo/Casos/1
+==99375== Parent PID: 99374
+==99375== 
+==99375== Conditional jump or move depends on uninitialised value(s)
+==99375==    at 0x10944D: EncontraMaiorMenorMedia (in /home/mateus/exercicios-gerais/05_ponteiros/pont_04/Resultados/Mateus/completo/prog)
+==99375==    by 0x1092CD: main (in /home/mateus/exercicios-gerais/05_ponteiros/pont_04/Resultados/Mateus/completo/prog)
+==99375== 
+==99375== 
+==99375== HEAP SUMMARY:
+==99375==     in use at exit: 0 bytes in 0 blocks
+==99375==   total heap usage: 2 allocs, 2 frees, 8,192 bytes allocated
+==99375== 
+==99375== All heap blocks were freed -- no leaks are possible
+==99375== 
+==99375== Use --track-origins=yes to see where uninitialised values come from
+==99375== For lists of detected and suppressed errors, rerun with: -s
+==99375== ERROR SUMMARY: 1 errors from 1 contexts (suppressed: 0 from 0)

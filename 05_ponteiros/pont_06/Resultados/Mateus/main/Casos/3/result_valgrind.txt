@@ -1,0 +1,6 @@
+==18343== Memcheck, a memory error detector
+==18343== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==18343== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==18343== Command: Resultados/Mateus/main/prog Resultados/Mateus/main/Casos/3
+==18343== Parent PID: 18342
+==18343== 

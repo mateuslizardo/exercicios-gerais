@@ -1,0 +1,314 @@
+- Arquivo de configuração encontrado!
+ - Arquivos header necessários do professor existem na pasta Includes
+ - Arquivos objetos necessários do professor existem na pasta Gabarito-obj.
+
+#######################################
+ALUNO: Mateus
+#######################################
+
+CRIANDO O DIRETÓRIO DE RESULTADO PARA Mateus:
+ - Diretório Resultados/Mateus criado com sucesso!
+ - Diretório Resultados/Mateus/main criado com sucesso!
+ - Diretório Resultados/Mateus/completo criado com sucesso!
+ - Diretório Resultados/Mateus/agendatarefas criado com sucesso!
+ - Diretório Resultados/Mateus/tarefamultiplica criado com sucesso!
+ - Diretório Resultados/Mateus/tarefasoma criado com sucesso!
+ - Diretório Resultados/Mateus/tarefaimprime criado com sucesso!
+ - Arquivos criados: ok!
+
+CHECKANDO OS ARQUIVOS DO ALUNO:
+ - Arquivo esperado 'Respostas/Mateus/agendatarefas.c' encontrado!
+ - Arquivo esperado 'Respostas/Mateus/agendatarefas.h' encontrado!
+ - Arquivo esperado 'Respostas/Mateus/main.c' não encontrado!
+ - Arquivo esperado 'Respostas/Mateus/tarefaimprime.c' encontrado!
+ - Arquivo esperado 'Respostas/Mateus/tarefaimprime.h' encontrado!
+ - Arquivo esperado 'Respostas/Mateus/tarefamultiplica.c' encontrado!
+ - Arquivo esperado 'Respostas/Mateus/tarefamultiplica.h' encontrado!
+ - Arquivo esperado 'Respostas/Mateus/tarefasoma.c' encontrado!
+ - Arquivo esperado 'Respostas/Mateus/tarefasoma.h' encontrado!
+ - Arquivos esperados enviados: Faltando!
+
+COPIANDO OS ARQUIVOS PARA A PASTA DE RESULTADO DO ALUNO:
+ - Pasta main:
+ - Copiando os Casos de teste para a pasta Resultados/Mateus/main
+ - Copiando os Includes/agendatarefas.h Includes/tarefaimprime.h Includes/tarefamultiplica.h Includes/tarefasoma.h do professor para a pasta Resultados/Mateus/main
+ - Copiando os Includes/*.o do professor para a pasta Resultados/Mateus/main
+ - Removendo o main.o do professor da pasta Resultados/Mateus/main
+ - Copiando o Respostas/Mateus/main.c do aluno para a pasta Resultados/Mateus/main
+ - Pasta completo:
+ - Copiando os Casos de teste para a pasta Resultados/Mateus/completo
+ - Copiando os Respostas/Mateus/agendatarefas.c do aluno para a pasta Resultados/Mateus/completo
+ - Copiando os Respostas/Mateus/agendatarefas.h do aluno para a pasta Resultados/Mateus/completo
+ - Copiando os Respostas/Mateus/main.c do aluno para a pasta Resultados/Mateus/completo
+ - Copiando os Respostas/Mateus/tarefaimprime.c do aluno para a pasta Resultados/Mateus/completo
+ - Copiando os Respostas/Mateus/tarefaimprime.h do aluno para a pasta Resultados/Mateus/completo
+ - Copiando os Respostas/Mateus/tarefamultiplica.c do aluno para a pasta Resultados/Mateus/completo
+ - Copiando os Respostas/Mateus/tarefamultiplica.h do aluno para a pasta Resultados/Mateus/completo
+ - Copiando os Respostas/Mateus/tarefasoma.c do aluno para a pasta Resultados/Mateus/completo
+ - Copiando os Respostas/Mateus/tarefasoma.h do aluno para a pasta Resultados/Mateus/completo
+ - Pasta agendatarefas:
+ - Copiando os Casos de teste para a pasta Resultados/Mateus/agendatarefas
+ - Copiando os Includes/agendatarefas.h Includes/tarefaimprime.h Includes/tarefamultiplica.h Includes/tarefasoma.h do professor para a pasta Resultados/Mateus/agendatarefas
+ - Copiando os Includes/*.o do professor para a pasta Resultados/Mateus/agendatarefas
+ - Removendo o agendatarefas.o do professor da pasta Resultados/Mateus/agendatarefas
+ - Copiando o Respostas/Mateus/agendatarefas.c do aluno para a pasta Resultados/Mateus/agendatarefas
+ - Pasta tarefamultiplica:
+ - Copiando os Casos de teste para a pasta Resultados/Mateus/tarefamultiplica
+ - Copiando os Includes/agendatarefas.h Includes/tarefaimprime.h Includes/tarefamultiplica.h Includes/tarefasoma.h do professor para a pasta Resultados/Mateus/tarefamultiplica
+ - Copiando os Includes/*.o do professor para a pasta Resultados/Mateus/tarefamultiplica
+ - Removendo o tarefamultiplica.o do professor da pasta Resultados/Mateus/tarefamultiplica
+ - Copiando o Respostas/Mateus/tarefamultiplica.c do aluno para a pasta Resultados/Mateus/tarefamultiplica
+ - Pasta tarefasoma:
+ - Copiando os Casos de teste para a pasta Resultados/Mateus/tarefasoma
+ - Copiando os Includes/agendatarefas.h Includes/tarefaimprime.h Includes/tarefamultiplica.h Includes/tarefasoma.h do professor para a pasta Resultados/Mateus/tarefasoma
+ - Copiando os Includes/*.o do professor para a pasta Resultados/Mateus/tarefasoma
+ - Removendo o tarefasoma.o do professor da pasta Resultados/Mateus/tarefasoma
+ - Copiando o Respostas/Mateus/tarefasoma.c do aluno para a pasta Resultados/Mateus/tarefasoma
+ - Pasta tarefaimprime:
+ - Copiando os Casos de teste para a pasta Resultados/Mateus/tarefaimprime
+ - Copiando os Includes/agendatarefas.h Includes/tarefaimprime.h Includes/tarefamultiplica.h Includes/tarefasoma.h do professor para a pasta Resultados/Mateus/tarefaimprime
+ - Copiando os Includes/*.o do professor para a pasta Resultados/Mateus/tarefaimprime
+ - Removendo o tarefaimprime.o do professor da pasta Resultados/Mateus/tarefaimprime
+ - Copiando o Respostas/Mateus/tarefaimprime.c do aluno para a pasta Resultados/Mateus/tarefaimprime
+ - Copiando Arquivos Extras do Aluno:
+ - Arquivos copiados: ok!
+
+COMPILANDO OS ARQUIVOS NA PASTA DE RESULTADO DO ALUNO:
+ - Erro de compilação! Verifique os arquivos da pasta main.
+ - Compilação dos arquivos do aluno na pasta completo ok!
+ - Arquivo de output gerado: Resultados/Mateus/completo/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta agendatarefas ok!
+ - Arquivo de output gerado: Resultados/Mateus/agendatarefas/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta tarefamultiplica ok!
+ - Arquivo de output gerado: Resultados/Mateus/tarefamultiplica/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta tarefasoma ok!
+ - Arquivo de output gerado: Resultados/Mateus/tarefasoma/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta tarefaimprime ok!
+ - Arquivo de output gerado: Resultados/Mateus/tarefaimprime/result_compilation.txt
+ - Arquivos Compilados: Erro!: 1 arquivos com erros de compilacao.
+
+ - Arquivos Compilados: ok!
+
+LINKANDO OS ARQUIVOS COMPILADOS:
+ - Pasta main:
+ - Gerando o binário prog linkando com o(s) arquivo(s) main/*.o
+ - Arquivos Linkados: Erro! Binário prog não gerado.
+ - Arquivo de output gerado: Resultados/Mateus/main/result_linking.txt
+ - Pasta completo:
+ - Gerando o binário prog linkando com o(s) arquivo(s) completo/*.o
+ - Arquivos Linkados: Erro! Binário prog não gerado.
+ - Arquivo de output gerado: Resultados/Mateus/completo/result_linking.txt
+ - Pasta agendatarefas:
+ - Gerando o binário prog linkando com o(s) arquivo(s) agendatarefas/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/Mateus/agendatarefas/result_linking.txt
+ - Pasta tarefamultiplica:
+ - Gerando o binário prog linkando com o(s) arquivo(s) tarefamultiplica/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/Mateus/tarefamultiplica/result_linking.txt
+ - Pasta tarefasoma:
+ - Gerando o binário prog linkando com o(s) arquivo(s) tarefasoma/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/Mateus/tarefasoma/result_linking.txt
+ - Pasta tarefaimprime:
+ - Gerando o binário prog linkando com o(s) arquivo(s) tarefaimprime/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/Mateus/tarefaimprime/result_linking.txt
+ - Arquivos Linkados: Erro! 2 arquivos com erros de linkagem.
+
+EXECUTANDO O VALGRIND EM CADA CASO:
+ - Pasta main / Caso 1:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta main / Caso 2:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta main / Caso 3:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta main / Caso 4:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta main / Caso 5:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Nota para a pasta main (máximo 1.66) - de - % de 1.66: .
+ -----
+ - Pasta completo / Caso 1:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta completo / Caso 2:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta completo / Caso 3:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta completo / Caso 4:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta completo / Caso 5:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Nota para a pasta completo (máximo 1.66) - de - % de 1.66: .
+ -----
+ - Pasta agendatarefas / Caso 1:
+ - Arquivo de output gerado: Resultados/Mateus/agendatarefas/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 17, frees: 17, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta agendatarefas / Caso 2:
+ - Arquivo de output gerado: Resultados/Mateus/agendatarefas/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 17, frees: 17, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta agendatarefas / Caso 3:
+ - Arquivo de output gerado: Resultados/Mateus/agendatarefas/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 79, frees: 79, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta agendatarefas / Caso 4:
+ - Arquivo de output gerado: Resultados/Mateus/agendatarefas/Casos/4/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 59, frees: 59, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta agendatarefas / Caso 5:
+ - Arquivo de output gerado: Resultados/Mateus/agendatarefas/Casos/5/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 106, frees: 106, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Nota para a pasta agendatarefas (máximo 1.67) - de - % de 1.67: .
+ -----
+ - Pasta tarefamultiplica / Caso 1:
+ - Arquivo de output gerado: Resultados/Mateus/tarefamultiplica/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 15, frees: 15, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta tarefamultiplica / Caso 2:
+ - Arquivo de output gerado: Resultados/Mateus/tarefamultiplica/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 15, frees: 15, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta tarefamultiplica / Caso 3:
+ - Arquivo de output gerado: Resultados/Mateus/tarefamultiplica/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 57, frees: 57, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta tarefamultiplica / Caso 4:
+ - Arquivo de output gerado: Resultados/Mateus/tarefamultiplica/Casos/4/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 35, frees: 35, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta tarefamultiplica / Caso 5:
+ - Arquivo de output gerado: Resultados/Mateus/tarefamultiplica/Casos/5/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 59, frees: 59, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Nota para a pasta tarefamultiplica (máximo 1.67) - de - % de 1.67: .
+ -----
+ - Pasta tarefasoma / Caso 1:
+ - Arquivo de output gerado: Resultados/Mateus/tarefasoma/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 15, frees: 15, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta tarefasoma / Caso 2:
+ - Arquivo de output gerado: Resultados/Mateus/tarefasoma/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 15, frees: 15, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta tarefasoma / Caso 3:
+ - Arquivo de output gerado: Resultados/Mateus/tarefasoma/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 57, frees: 57, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta tarefasoma / Caso 4:
+ - Arquivo de output gerado: Resultados/Mateus/tarefasoma/Casos/4/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 35, frees: 35, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta tarefasoma / Caso 5:
+ - Arquivo de output gerado: Resultados/Mateus/tarefasoma/Casos/5/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 59, frees: 59, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Nota para a pasta tarefasoma (máximo 1.67) - de - % de 1.67: .
+ -----
+ - Pasta tarefaimprime / Caso 1:
+ - Arquivo de output gerado: Resultados/Mateus/tarefaimprime/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 15, frees: 15, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta tarefaimprime / Caso 2:
+ - Arquivo de output gerado: Resultados/Mateus/tarefaimprime/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 15, frees: 15, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta tarefaimprime / Caso 3:
+ - Arquivo de output gerado: Resultados/Mateus/tarefaimprime/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 57, frees: 57, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta tarefaimprime / Caso 4:
+ - Arquivo de output gerado: Resultados/Mateus/tarefaimprime/Casos/4/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 35, frees: 35, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Pasta tarefaimprime / Caso 5:
+ - Arquivo de output gerado: Resultados/Mateus/tarefaimprime/Casos/5/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 59, frees: 59, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): (soma total) - % (desconto do valgrind) = de pontos.
+ - Nota para a pasta tarefaimprime (máximo 1.67) - de - % de 1.67: .
+ -----
+
+#######################################
+RESULTADOS FINAIS
+#######################################
+
+----------------------------------------------------------------------------
+Aluno: Mateus
+ - Arquivos Esperados Corretos: 8 de 9
+ - Pastas Compiladas Corretamente: 5 de 6 
+ - Pastas Linkadas Corretamente: 4 de 6
+ - Teste main
+ - Resultados corretos: 0 de 5
+ - Valgrinds corretos: 0 de 5
+ - Nota de Mateus para o teste main: 
+ - Teste completo
+ - Resultados corretos: 0 de 5
+ - Valgrinds corretos: 0 de 5
+ - Nota de Mateus para o teste completo: 
+ - Teste agendatarefas
+ - Resultados corretos: 5 de 5
+ - Valgrinds corretos: 5 de 5
+ - Nota de Mateus para o teste agendatarefas: 
+ - Teste tarefamultiplica
+ - Resultados corretos: 5 de 5
+ - Valgrinds corretos: 5 de 5
+ - Nota de Mateus para o teste tarefamultiplica: 
+ - Teste tarefasoma
+ - Resultados corretos: 5 de 5
+ - Valgrinds corretos: 5 de 5
+ - Nota de Mateus para o teste tarefasoma: 
+ - Teste tarefaimprime
+ - Resultados corretos: 5 de 5
+ - Valgrinds corretos: 5 de 5
+ - Nota de Mateus para o teste tarefaimprime: 
+ - Nota de Mateus: 0+()+()+()+()+()+()
+ - Nota de Mateus: 
+
+----------------------------------------------------------------------------
+
+Arquivo CSV Resultado.csv com os resultados finais foi gerado na pasta raíz!
+
+
+
