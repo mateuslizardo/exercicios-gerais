@@ -1,0 +1,25 @@
+Arquivos Esperados Corretos: 6 de 7
+Pastas Compiladas Corretamente: 4 de 5 
+Pastas Linkadas Corretamente: 3 de 5
+Teste time
+  - Resultados corretos: 4 de 4
+  - Valgrinds corretos: 4 de 4
+Nota de MateusLizardo para o teste time: 
+Teste tabela
+  - Resultados corretos: 4 de 4
+  - Valgrinds corretos: 4 de 4
+Nota de MateusLizardo para o teste tabela: 
+Teste brasileirao
+  - Resultados corretos: 0 de 4
+  - Valgrinds corretos: 0 de 4
+Nota de MateusLizardo para o teste brasileirao: 
+Teste completo
+  - Resultados corretos: 0 de 4
+  - Valgrinds corretos: 0 de 4
+Nota de MateusLizardo para o teste completo: 
+Teste main
+  - Resultados corretos: 0 de 4
+  - Valgrinds corretos: 0 de 4
+Nota de MateusLizardo para o teste main: 
+Nota de MateusLizardo: 0+()+()+()+()+()
+Nota de MateusLizardo: 

@@ -1,0 +1,4 @@
+brasileirao.c: In function ‘RealizaRodada’:
+brasileirao.c:32:12: warning: unused variable ‘j’ [-Wunused-variable]
+   32 |     int i, j, gols1, gols2;
+      |            ^
