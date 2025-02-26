@@ -100,6 +100,7 @@ C - Continuar
 R - Retirar 2 times e seguir
 F - Finalizar
 
+Esta foi a tabela final:
 Classificação:
 Nome | Pontos | Vitorias | Derrotas | Empates | Saldo
 Flamengo     | 15 | 05 | 01 | 00 | +12
@@ -114,17 +115,4 @@ Rio-Branco   | 01 | 00 | 05 | 01 | -14
 1º lugar - Flamengo: R$250000.00
 2º lugar - Desportiva: R$150000.00
 3º lugar - Santos: R$100000.00
-Classificação:
-Nome | Pontos | Vitorias | Derrotas | Empates | Saldo
-Flamengo     | 15 | 05 | 01 | 00 | +12
-Desportiva   | 13 | 04 | 01 | 01 | +09
-Santos       | 13 | 04 | 01 | 01 | +03
-Palmeiras    | 10 | 03 | 02 | 01 | -04
-Vasco        | 09 | 03 | 03 | 00 | +01
-Paysandu     | 05 | 01 | 03 | 02 | -02
-Remo         | 03 | 01 | 05 | 00 | -05
-Rio-Branco   | 01 | 00 | 05 | 01 | -14
-
-1º lugar - Flamengo: R$250000.00
-2º lugar - Desportiva: R$150000.00
-3º lugar - Santos: R$100000.00
+Fim do campeonato

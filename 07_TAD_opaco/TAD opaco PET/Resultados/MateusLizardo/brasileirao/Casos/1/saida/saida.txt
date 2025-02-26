@@ -64,27 +64,19 @@ C - Continuar
 R - Retirar 2 times e seguir
 F - Finalizar
 
+Times a serem retirados:
+Os times Vasco e Palmeiras se retiraram do campeonato
 Classificação:
 Nome | Pontos | Vitorias | Derrotas | Empates | Saldo
-Flamengo     | 07 | 02 | 02 | 01 | -01
-Corinthians  | 06 | 02 | 03 | 00 | -04
+Flamengo     | 10 | 03 | 02 | 01 | +01
+Corinthians  | 06 | 02 | 04 | 00 | -06
 
 Menu:
 C - Continuar
 R - Retirar 2 times e seguir
 F - Finalizar
 
-Classificação:
-Nome | Pontos | Vitorias | Derrotas | Empates | Saldo
-Flamengo     | 07 | 02 | 02 | 01 | -01
-Corinthians  | 06 | 02 | 03 | 00 | -04
-
-1º lugar - Flamengo: R$6000.00
-2º lugar - Corinthians: R$4000.00
-Classificação:
-Nome | Pontos | Vitorias | Derrotas | Empates | Saldo
-Flamengo     | 07 | 02 | 02 | 01 | -01
-Corinthians  | 06 | 02 | 03 | 00 | -04
-
-1º lugar - Flamengo: R$6000.00
-2º lugar - Corinthians: R$4000.00
+Times a serem retirados:
+Os times Flamengo e Corinthians se retiraram do campeonato
+Premio de R$10000.00 acumulado para a proxima edicao
+Fim do campeonato

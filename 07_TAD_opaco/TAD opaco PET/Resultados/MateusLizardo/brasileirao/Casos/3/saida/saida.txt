@@ -64,27 +64,24 @@ C - Continuar
 R - Retirar 2 times e seguir
 F - Finalizar
 
+Times a serem retirados:
+Os times Vasco e Palmeiras se retiraram do campeonato
 Classificação:
 Nome | Pontos | Vitorias | Derrotas | Empates | Saldo
-Atletico-MG  | 07 | 02 | 02 | 01 | -03
-Flamengo     | 05 | 01 | 02 | 02 | -02
+Flamengo     | 08 | 02 | 02 | 02 | +00
+Atletico-MG  | 07 | 02 | 03 | 01 | -05
 
 Menu:
 C - Continuar
 R - Retirar 2 times e seguir
 F - Finalizar
 
+Esta foi a tabela final:
 Classificação:
 Nome | Pontos | Vitorias | Derrotas | Empates | Saldo
-Atletico-MG  | 07 | 02 | 02 | 01 | -03
-Flamengo     | 05 | 01 | 02 | 02 | -02
+Flamengo     | 08 | 02 | 02 | 02 | +00
+Atletico-MG  | 07 | 02 | 03 | 01 | -05
 
-1º lugar - Atletico-MG: R$6000.00
-2º lugar - Flamengo: R$4000.00
-Classificação:
-Nome | Pontos | Vitorias | Derrotas | Empates | Saldo
-Atletico-MG  | 07 | 02 | 02 | 01 | -03
-Flamengo     | 05 | 01 | 02 | 02 | -02
-
-1º lugar - Atletico-MG: R$6000.00
-2º lugar - Flamengo: R$4000.00
+1º lugar - Flamengo: R$6000.00
+2º lugar - Atletico-MG: R$4000.00
+Fim do campeonato
