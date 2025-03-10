@@ -1,0 +1,39 @@
+==44119== Memcheck, a memory error detector
+==44119== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==44119== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==44119== Command: Resultados/Mateus/completo/prog Resultados/Mateus/completo/Casos/3
+==44119== Parent PID: 44118
+==44119== 
+==44119== Invalid write of size 8
+==44119==    at 0x109674: CarregaAlunosBinario (in /home/mateus/exercicios-gerais/09_arquivo_binario/Arq_Bin_01/Resultados/Mateus/completo/prog)
+==44119==    by 0x109910: main (in /home/mateus/exercicios-gerais/09_arquivo_binario/Arq_Bin_01/Resultados/Mateus/completo/prog)
+==44119==  Address 0x4a8fd18 is 0 bytes after a block of size 40 alloc'd
+==44119==    at 0x484DA83: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==44119==    by 0x1092A9: CriaVetorAlunos (in /home/mateus/exercicios-gerais/09_arquivo_binario/Arq_Bin_01/Resultados/Mateus/completo/prog)
+==44119==    by 0x1098F6: main (in /home/mateus/exercicios-gerais/09_arquivo_binario/Arq_Bin_01/Resultados/Mateus/completo/prog)
+==44119== 
+==44119== Invalid read of size 8
+==44119==    at 0x10968B: CarregaAlunosBinario (in /home/mateus/exercicios-gerais/09_arquivo_binario/Arq_Bin_01/Resultados/Mateus/completo/prog)
+==44119==    by 0x109910: main (in /home/mateus/exercicios-gerais/09_arquivo_binario/Arq_Bin_01/Resultados/Mateus/completo/prog)
+==44119==  Address 0x4a8fd18 is 0 bytes after a block of size 40 alloc'd
+==44119==    at 0x484DA83: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==44119==    by 0x1092A9: CriaVetorAlunos (in /home/mateus/exercicios-gerais/09_arquivo_binario/Arq_Bin_01/Resultados/Mateus/completo/prog)
+==44119==    by 0x1098F6: main (in /home/mateus/exercicios-gerais/09_arquivo_binario/Arq_Bin_01/Resultados/Mateus/completo/prog)
+==44119== 
+==44119== Invalid read of size 8
+==44119==    at 0x1096C1: CarregaAlunosBinario (in /home/mateus/exercicios-gerais/09_arquivo_binario/Arq_Bin_01/Resultados/Mateus/completo/prog)
+==44119==    by 0x109910: main (in /home/mateus/exercicios-gerais/09_arquivo_binario/Arq_Bin_01/Resultados/Mateus/completo/prog)
+==44119==  Address 0x4a8fd18 is 0 bytes after a block of size 40 alloc'd
+==44119==    at 0x484DA83: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==44119==    by 0x1092A9: CriaVetorAlunos (in /home/mateus/exercicios-gerais/09_arquivo_binario/Arq_Bin_01/Resultados/Mateus/completo/prog)
+==44119==    by 0x1098F6: main (in /home/mateus/exercicios-gerais/09_arquivo_binario/Arq_Bin_01/Resultados/Mateus/completo/prog)
+==44119== 
+==44119== 
+==44119== HEAP SUMMARY:
+==44119==     in use at exit: 0 bytes in 0 blocks
+==44119==   total heap usage: 19 allocs, 19 frees, 21,896 bytes allocated
+==44119== 
+==44119== All heap blocks were freed -- no leaks are possible
+==44119== 
+==44119== For lists of detected and suppressed errors, rerun with: -s
+==44119== ERROR SUMMARY: 3 errors from 3 contexts (suppressed: 0 from 0)

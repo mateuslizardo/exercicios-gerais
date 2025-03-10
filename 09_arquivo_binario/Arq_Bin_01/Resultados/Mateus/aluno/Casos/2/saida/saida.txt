@@ -1,0 +1,22 @@
+Digite o numero de alunos: Numero de bytes salvos: 1224
+Aluno 0:
+Nome: 
+Data Nascimento: 
+Curso: p½
+Periodo Ingresso: 
+% Conclusao do Curso: 0
+CRA: 0.00
+Aluno 1:
+Nome: Lyra Celestia
+Data Nascimento: 21 de fevereiro de 2980
+Curso: Psicologia Cosmica
+Periodo Ingresso: 2023/1
+% Conclusao do Curso: 75
+CRA: 7.80
+Aluno 2:
+Nome: Zephyr Vanguard
+Data Nascimento: 09 de outubro de 3012
+Curso: Inteligencia Artificial etica
+Periodo Ingresso: 2023/2
+% Conclusao do Curso: 88
+CRA: 8.90
